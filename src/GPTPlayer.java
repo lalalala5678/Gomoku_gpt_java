@@ -5,7 +5,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 public class GPTPlayer {
-    private static final String API_KEY
+    private static final String API_KEY=
     private static final String BASE_URL = "https://api.gptsapi.net";
     private static final String ENDPOINT = "/v1/chat/completions";
 
